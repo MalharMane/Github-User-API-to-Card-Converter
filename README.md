@@ -8,8 +8,10 @@
  * No. of followers and Followings
 
 Tech used - React , javascript , HTML , CSS , Tailwind .
+
 Deployed - Netlify
-Api path used to get info from github   GET - https://api.github.com/users/{username}
+
+Api path used to get info from github                    GET - https://api.github.com/users/{username}
 
 
 Direct link to website -  https://search-github-users-api-to-card.netlify.app/
