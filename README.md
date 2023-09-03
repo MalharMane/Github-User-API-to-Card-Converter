@@ -1,3 +1,7 @@
+## OUTPUT - 
+![VID_20230903153707](https://github.com/MalharMane/githubapi/assets/104439115/354a058f-77d5-461a-a94e-1cda42bfbce4)
+
+ 
  A website where you can search someone's github public repositry .
  Only type username , then it will show nicely designed card with nicely designed UI showing 
  users public information.
